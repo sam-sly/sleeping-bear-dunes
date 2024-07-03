@@ -1,0 +1,33 @@
+h1, h2, strong {
+    color: purple;
+    font-family: sans-serif;
+  }
+  
+  p {
+    color: black;
+    font-family: sans-serif;
+  }
+  
+  span {
+    color: gray;
+  }
+  
+  ul {
+    border: 2px solid orange;
+    font-family: sans-serif;
+  }
+  
+  ol {
+    border: 2px solid purple;
+    font-family: sans-serif;
+  }
+  
+  ol, ul {
+    padding: 5px 20px;
+    border-radius: 4px;
+  }
+  
+  em {
+    color: gray;
+    font-family: sans-serif;
+  }
